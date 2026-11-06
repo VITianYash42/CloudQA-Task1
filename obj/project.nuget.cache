@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LG+ekZfNtKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yash Singhal\\Desktop\\CloudQATask1\\CloudQATask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yash Singhal\\.nuget\\packages\\selenium.support\\4.52.0\\selenium.support.4.52.0.nupkg.sha512",
+    "C:\\Users\\Yash Singhal\\.nuget\\packages\\selenium.webdriver\\4.52.0\\selenium.webdriver.4.52.0.nupkg.sha512"
+  ],
+  "logs": []
+}
